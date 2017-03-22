@@ -1,0 +1,2 @@
+# practica01
+PROBLEMA DEL GRANJERO
